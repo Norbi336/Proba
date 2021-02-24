@@ -1,0 +1,3 @@
+C:/masodik_felev/Adatstruktura/Proba/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/masodik_felev/Adatstruktura/Proba/cmake-build-debug/CMakeFiles/Proba.dir
+C:/masodik_felev/Adatstruktura/Proba/cmake-build-debug/CMakeFiles/edit_cache.dir
